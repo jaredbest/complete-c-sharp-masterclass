@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Section02.Challenge
+namespace Section02.ChallengeDatatypesAndVariables
 {
     class Program
     {

@@ -7,7 +7,7 @@ namespace Section02.MyName
         static void Main(string[] args)
         {
             string myname = "Jared";
-            string message = "My name is " + myname;
+            string message = "My name is " + myname + ".";
             string capsMessage = message.ToUpper();
             string lowerCaseMessage = message.ToLower();
 
