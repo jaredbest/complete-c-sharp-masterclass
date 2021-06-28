@@ -1,7 +1,7 @@
 # Course Repo
 
 - **Title:** Complete C# Masterclass
-- **Taught by:** Denis Panjuta
+- **Instructor:** Denis Panjuta
 - **Platform:** Udemy
 - **Note(s):**
 
