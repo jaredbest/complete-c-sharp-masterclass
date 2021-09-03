@@ -1,0 +1,15 @@
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\bin\Debug\net5.0\AbstractClasses.exe
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\bin\Debug\net5.0\AbstractClasses.deps.json
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.json
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.dev.json
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\bin\Debug\net5.0\AbstractClasses.dll
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\bin\Debug\net5.0\ref\AbstractClasses.dll
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\bin\Debug\net5.0\AbstractClasses.pdb
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\obj\Debug\net5.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\obj\Debug\net5.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\obj\Debug\net5.0\AbstractClasses.AssemblyInfo.cs
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\obj\Debug\net5.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\obj\Debug\net5.0\AbstractClasses.dll
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\obj\Debug\net5.0\ref\AbstractClasses.dll
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\obj\Debug\net5.0\AbstractClasses.pdb
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section10\AbstractClasses\obj\Debug\net5.0\AbstractClasses.genruntimeconfig.cache
