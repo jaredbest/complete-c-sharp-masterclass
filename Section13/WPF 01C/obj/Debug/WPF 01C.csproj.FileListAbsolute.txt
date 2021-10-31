@@ -1,0 +1,30 @@
+F:\Visual Studio Projects\WPF 01C\WPF 01C\bin\Debug\WPF 01C.exe.config
+F:\Visual Studio Projects\WPF 01C\WPF 01C\bin\Debug\WPF 01C.exe
+F:\Visual Studio Projects\WPF 01C\WPF 01C\bin\Debug\WPF 01C.pdb
+F:\Visual Studio Projects\WPF 01C\WPF 01C\obj\Debug\WPF 01C.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\WPF 01C\WPF 01C\obj\Debug\MainWindow.g.cs
+F:\Visual Studio Projects\WPF 01C\WPF 01C\obj\Debug\App.g.cs
+F:\Visual Studio Projects\WPF 01C\WPF 01C\obj\Debug\WPF 01C_MarkupCompile.cache
+F:\Visual Studio Projects\WPF 01C\WPF 01C\obj\Debug\WPF 01C_MarkupCompile.lref
+F:\Visual Studio Projects\WPF 01C\WPF 01C\obj\Debug\MainWindow.baml
+F:\Visual Studio Projects\WPF 01C\WPF 01C\obj\Debug\WPF 01C.g.resources
+F:\Visual Studio Projects\WPF 01C\WPF 01C\obj\Debug\WPF_01C.Properties.Resources.resources
+F:\Visual Studio Projects\WPF 01C\WPF 01C\obj\Debug\WPF 01C.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\WPF 01C\WPF 01C\obj\Debug\WPF 01C.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\WPF 01C\WPF 01C\obj\Debug\WPF 01C.exe
+F:\Visual Studio Projects\WPF 01C\WPF 01C\obj\Debug\WPF 01C.pdb
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\bin\Debug\WPF 01C.exe.config
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\bin\Debug\WPF 01C.exe
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\bin\Debug\WPF 01C.pdb
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\obj\Debug\WPF 01C.csproj.AssemblyReference.cache
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\obj\Debug\MainWindow.g.cs
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\obj\Debug\App.g.cs
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\obj\Debug\WPF 01C_MarkupCompile.cache
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\obj\Debug\WPF 01C_MarkupCompile.lref
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\obj\Debug\MainWindow.baml
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\obj\Debug\WPF 01C.g.resources
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\obj\Debug\WPF_01C.Properties.Resources.resources
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\obj\Debug\WPF 01C.csproj.GenerateResource.cache
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\obj\Debug\WPF 01C.csproj.CoreCompileInputs.cache
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\obj\Debug\WPF 01C.exe
+C:\Users\jared\Desktop\GitHub\jaredbest\complete-c-sharp-masterclass\Section13\obj\Debug\WPF 01C.pdb

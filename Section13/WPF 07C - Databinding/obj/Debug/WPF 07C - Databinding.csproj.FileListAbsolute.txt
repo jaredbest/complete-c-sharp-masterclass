@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\bin\Debug\WPF 07C - Databinding.exe.config
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\bin\Debug\WPF 07C - Databinding.exe
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\bin\Debug\WPF 07C - Databinding.pdb
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\MainWindow.g.cs
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\App.g.cs
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF 07C - Databinding_MarkupCompile.cache
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF 07C - Databinding_MarkupCompile.lref
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\MainWindow.baml
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF 07C - Databinding.g.resources
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF_07C___Databinding.Properties.Resources.resources
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF 07C - Databinding.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF 07C - Databinding.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF 07C - Databinding.exe
+F:\Visual Studio Projects\WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF 07C - Databinding.pdb

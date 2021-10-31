@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\bin\Debug\WPF 03C - Stackpanel and ListBox.exe.config
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\bin\Debug\WPF 03C - Stackpanel and ListBox.exe
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\bin\Debug\WPF 03C - Stackpanel and ListBox.pdb
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\obj\Debug\MainWindow.g.cs
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\obj\Debug\App.g.cs
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\obj\Debug\WPF 03C - Stackpanel and ListBox_MarkupCompile.cache
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\obj\Debug\WPF 03C - Stackpanel and ListBox_MarkupCompile.lref
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\obj\Debug\MainWindow.baml
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\obj\Debug\WPF 03C - Stackpanel and ListBox.g.resources
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\obj\Debug\WPF_03C___Stackpanel_and_ListBox.Properties.Resources.resources
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\obj\Debug\WPF 03C - Stackpanel and ListBox.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\obj\Debug\WPF 03C - Stackpanel and ListBox.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\obj\Debug\WPF 03C - Stackpanel and ListBox.exe
+F:\Visual Studio Projects\WPF 03C - Stackpanel and ListBox\WPF 03C - Stackpanel and ListBox\obj\Debug\WPF 03C - Stackpanel and ListBox.pdb

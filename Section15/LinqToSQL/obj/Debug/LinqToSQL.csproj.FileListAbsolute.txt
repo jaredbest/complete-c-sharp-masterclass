@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe.config
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.pdb
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\obj\Debug\MainWindow.g.cs
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\obj\Debug\App.g.cs
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL_MarkupCompile.cache
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL_MarkupCompile.lref
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\obj\Debug\MainWindow.baml
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.g.resources
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.Properties.Resources.resources
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.exe
+F:\Visual Studio Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.pdb

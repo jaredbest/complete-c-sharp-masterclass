@@ -1,0 +1,9 @@
+﻿<Application x:Class="WPF_14C_Property_Data_and_Event_Triggers.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_14C_Property_Data_and_Event_Triggers"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

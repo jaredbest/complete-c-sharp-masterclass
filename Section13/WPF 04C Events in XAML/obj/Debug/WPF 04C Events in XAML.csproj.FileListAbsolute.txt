@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\bin\Debug\WPF 04C Events in XAML.exe.config
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\bin\Debug\WPF 04C Events in XAML.exe
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\bin\Debug\WPF 04C Events in XAML.pdb
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\obj\Debug\WPF 04C Events in XAML.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\obj\Debug\MainWindow.g.cs
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\obj\Debug\App.g.cs
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\obj\Debug\WPF 04C Events in XAML_MarkupCompile.cache
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\obj\Debug\WPF 04C Events in XAML_MarkupCompile.lref
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\obj\Debug\MainWindow.baml
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\obj\Debug\WPF 04C Events in XAML.g.resources
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\obj\Debug\WPF_04C_Events_in_XAML.Properties.Resources.resources
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\obj\Debug\WPF 04C Events in XAML.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\obj\Debug\WPF 04C Events in XAML.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\obj\Debug\WPF 04C Events in XAML.exe
+F:\Visual Studio Projects\WPF 04C Events in XAML\WPF 04C Events in XAML\obj\Debug\WPF 04C Events in XAML.pdb

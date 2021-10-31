@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\bin\Debug\WPF 11C - Checkbox.exe.config
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\bin\Debug\WPF 11C - Checkbox.exe
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\bin\Debug\WPF 11C - Checkbox.pdb
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\obj\Debug\MainWindow.g.cs
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\obj\Debug\App.g.cs
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\obj\Debug\WPF 11C - Checkbox_MarkupCompile.cache
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\obj\Debug\WPF 11C - Checkbox_MarkupCompile.lref
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\obj\Debug\MainWindow.baml
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\obj\Debug\WPF 11C - Checkbox.g.resources
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\obj\Debug\WPF_11C___Checkbox.Properties.Resources.resources
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\obj\Debug\WPF 11C - Checkbox.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\obj\Debug\WPF 11C - Checkbox.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\obj\Debug\WPF 11C - Checkbox.exe
+F:\Visual Studio Projects\WPF 11C - Checkbox\WPF 11C - Checkbox\obj\Debug\WPF 11C - Checkbox.pdb

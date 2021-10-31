@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\bin\Debug\WPF 06C - Dependency Properties.exe.config
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\bin\Debug\WPF 06C - Dependency Properties.exe
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\bin\Debug\WPF 06C - Dependency Properties.pdb
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\obj\Debug\WPF 06C - Dependency Properties.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\obj\Debug\MainWindow.g.cs
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\obj\Debug\App.g.cs
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\obj\Debug\WPF 06C - Dependency Properties_MarkupCompile.cache
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\obj\Debug\WPF 06C - Dependency Properties_MarkupCompile.lref
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\obj\Debug\MainWindow.baml
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\obj\Debug\WPF 06C - Dependency Properties.g.resources
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\obj\Debug\WPF_06C___Dependency_Properties.Properties.Resources.resources
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\obj\Debug\WPF 06C - Dependency Properties.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\obj\Debug\WPF 06C - Dependency Properties.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\obj\Debug\WPF 06C - Dependency Properties.exe
+F:\Visual Studio Projects\WPF 06C - Dependency Properties\WPF 06C - Dependency Properties\obj\Debug\WPF 06C - Dependency Properties.pdb

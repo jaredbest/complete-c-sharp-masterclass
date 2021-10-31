@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\bin\Debug\WPF ZooManager.exe.config
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\bin\Debug\WPF ZooManager.exe
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\bin\Debug\WPF ZooManager.pdb
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\obj\Debug\MainWindow.g.cs
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\obj\Debug\App.g.cs
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager_MarkupCompile.cache
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager_MarkupCompile.lref
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\obj\Debug\MainWindow.baml
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.g.resources
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\obj\Debug\WPF_ZooManager.Properties.Resources.resources
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.exe
+F:\Visual Studio Projects\WPF ZooManager\WPF ZooManager\obj\Debug\WPF ZooManager.pdb

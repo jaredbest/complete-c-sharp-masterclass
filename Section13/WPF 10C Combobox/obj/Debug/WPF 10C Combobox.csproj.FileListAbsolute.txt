@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\bin\Debug\WPF 10C Combobox.exe.config
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\bin\Debug\WPF 10C Combobox.exe
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\bin\Debug\WPF 10C Combobox.pdb
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\obj\Debug\MainWindow.g.cs
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\obj\Debug\App.g.cs
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\obj\Debug\WPF 10C Combobox_MarkupCompile.cache
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\obj\Debug\WPF 10C Combobox_MarkupCompile.lref
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\obj\Debug\MainWindow.baml
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\obj\Debug\WPF 10C Combobox.g.resources
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\obj\Debug\WPF_10C_Combobox.Properties.Resources.resources
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\obj\Debug\WPF 10C Combobox.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\obj\Debug\WPF 10C Combobox.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\obj\Debug\WPF 10C Combobox.exe
+F:\Visual Studio Projects\WPF 10C Combobox\WPF 10C Combobox\obj\Debug\WPF 10C Combobox.pdb

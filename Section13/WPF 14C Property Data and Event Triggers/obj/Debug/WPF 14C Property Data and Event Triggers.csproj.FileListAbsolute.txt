@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\bin\Debug\WPF 14C Property Data and Event Triggers.exe.config
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\bin\Debug\WPF 14C Property Data and Event Triggers.exe
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\bin\Debug\WPF 14C Property Data and Event Triggers.pdb
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\obj\Debug\MainWindow.g.cs
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\obj\Debug\App.g.cs
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\obj\Debug\WPF 14C Property Data and Event Triggers_MarkupCompile.cache
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\obj\Debug\WPF 14C Property Data and Event Triggers_MarkupCompile.lref
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\obj\Debug\MainWindow.baml
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\obj\Debug\WPF 14C Property Data and Event Triggers.g.resources
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\obj\Debug\WPF_14C_Property_Data_and_Event_Triggers.Properties.Resources.resources
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\obj\Debug\WPF 14C Property Data and Event Triggers.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\obj\Debug\WPF 14C Property Data and Event Triggers.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\obj\Debug\WPF 14C Property Data and Event Triggers.exe
+F:\Visual Studio Projects\WPF 14C Property Data and Event Triggers\WPF 14C Property Data and Event Triggers\obj\Debug\WPF 14C Property Data and Event Triggers.pdb

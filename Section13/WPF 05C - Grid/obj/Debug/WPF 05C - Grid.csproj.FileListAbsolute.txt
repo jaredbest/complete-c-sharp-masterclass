@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\bin\Debug\WPF 05C - Grid.exe.config
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\bin\Debug\WPF 05C - Grid.exe
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\bin\Debug\WPF 05C - Grid.pdb
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\obj\Debug\WPF 05C - Grid.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\obj\Debug\MainWindow.g.cs
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\obj\Debug\App.g.cs
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\obj\Debug\WPF 05C - Grid_MarkupCompile.cache
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\obj\Debug\WPF 05C - Grid_MarkupCompile.lref
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\obj\Debug\MainWindow.baml
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\obj\Debug\WPF 05C - Grid.g.resources
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\obj\Debug\WPF_05C___Grid.Properties.Resources.resources
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\obj\Debug\WPF 05C - Grid.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\obj\Debug\WPF 05C - Grid.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\obj\Debug\WPF 05C - Grid.exe
+F:\Visual Studio Projects\WPF 05C - Grid\WPF 05C - Grid\obj\Debug\WPF 05C - Grid.pdb

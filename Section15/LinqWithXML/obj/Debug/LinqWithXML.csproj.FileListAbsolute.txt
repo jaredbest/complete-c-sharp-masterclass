@@ -1,0 +1,7 @@
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe.config
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.pdb
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.exe
+F:\Visual Studio Projects\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.pdb
